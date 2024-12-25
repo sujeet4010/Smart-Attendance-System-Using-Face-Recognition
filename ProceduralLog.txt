@@ -1,0 +1,50 @@
+2024-12-17 19:32:08 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:37:49 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:40:20 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:42:45 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:45:53 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:48:22 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:53:29 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:56:21 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 19:59:47 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-17 20:03:11 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 20:55:52 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:21:03 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:22:46 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:25:17 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:29:19 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:32:39 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:37:19 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:43:29 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:45:08 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:47:35 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:50:27 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:53:35 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 21:57:33 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 22:03:08 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-12-24 22:07:20 WARNING  From C:\Users\sujee\Desktop\ASFR\venv\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
